@@ -1,0 +1,13 @@
+
+
+body{
+    background: #400854;
+    color: #fddf4f;
+}
+.clock{
+    height: 100%;
+    padding-top: 100px;
+    text-align: center;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
